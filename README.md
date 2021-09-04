@@ -9,3 +9,4 @@ Exibe uma pequena página em HTML
 ## /healthz
 
 Uma rota para healtcheck de aplicação
+# aula-ead-openshift
